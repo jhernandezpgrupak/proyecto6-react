@@ -1,0 +1,23 @@
+.Gifs{
+    border: 1px solid #eee;
+    border-radius: 6px;
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    margin: 16px;
+    padding: 32px;
+    width: 50%;
+}
+
+.Gifs h4 {
+    margin: 0;
+}
+
+.Gifs img {
+    object-fit: contain;
+}
+
+i{
+    font-size: 40px;
+}
